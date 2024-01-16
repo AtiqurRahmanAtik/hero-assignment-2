@@ -55,7 +55,7 @@ margin-left: 16px;
 height: 500px;
 border-radius: 16px;
 background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%);
-background-image:url('../images/Group 13 (1) (1).png');
+background-image: url('../images/B.png');
 background-repeat: no-repeat;
 background-size: cover;
 object-fit: cover;
@@ -119,6 +119,7 @@ input[type="text"]{
     background-image: url(../images/seach.png);
     background-repeat: no-repeat;
   background-position: 10px 10px; 
+  margin-top: 28px;
 
 }
 
